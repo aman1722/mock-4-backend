@@ -1,0 +1,25 @@
+{
+    "user": "6157b4a843c3a537bfad6e24",
+    "restaurant": "6157b4a843c3a537bfad6e25",
+    "items": [
+        {
+            "name": "Pizza",
+            "price": 12.99,
+            "quantity": 2
+        },
+        {
+            "name": "Burger",
+            "price": 6.99,
+            "quantity": 1
+        }
+    ],
+    "totalPrice": 32.97,
+    "deliveryAddress": {
+        "street": "123 Main St",
+        "city": "Exampleville",
+        "state": "ABC",
+        "country": "XYZ",
+        "zip": "12345"
+    },
+    "status": "placed"
+}
